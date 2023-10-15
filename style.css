@@ -339,6 +339,7 @@ p{
     border: 4px solid var(--primary-color);
     font-size: 1.1em;
     font-family: var(--primary-font);
+    text-align: center;
 }
 
 .tour-section .btn:hover{
