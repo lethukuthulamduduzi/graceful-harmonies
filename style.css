@@ -300,6 +300,7 @@ p{
     font-size: 1.6em;
     margin-top: 10px;
     font-weight: 600;
+    text-align: center;
 }
 
 .tour-info-container{
@@ -357,7 +358,7 @@ p{
 }
 
 .right-tour-info img{
-    width: 70%;
+    width: 80%;
 }
 /* Tour Section Ends */
 
