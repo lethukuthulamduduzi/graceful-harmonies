@@ -232,7 +232,7 @@ p{
 
 .border-box{
     width: 100px;
-    height: 75px;
+    height: 55px;
     background-color: var(--primary-color);
     position: absolute;
     z-index: -1;
@@ -274,7 +274,7 @@ p{
     width: 60%;
     position: relative;
     top: -100px;
-    left: -120px;
+    left: -100px;
 }
 /* About Us Section Ends */
 
