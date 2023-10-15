@@ -93,7 +93,7 @@ p{
 
 .band-slogan{
     color: white;
-    font-size: 1.6em;
+    font-size: 1.7em;
     font-family: var(--secondary-font);
     font-weight: 300;
 }
@@ -111,7 +111,7 @@ p{
 
 .tour-name{
     font-family: var(--primary-font);
-    font-size: 3em;
+    font-size: 4em;
     word-spacing: 5px;
     text-transform: uppercase;
     color: white;
@@ -125,7 +125,7 @@ p{
 .tour-slogan{
     font-family: var(--secondary-font);
     color: white;
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -133,7 +133,7 @@ p{
 .btn{
     background-color: var(--primary-color);
     font-family: var(--text-font);
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-weight: 600;
     color: white;
     padding: 7px 40px;
@@ -157,7 +157,7 @@ p{
 
 .section-heading{
     font-family: var(--secondary-font);
-    font-size: 2em;
+    font-size: 3em;
     color: black;
     font-weight: 900;
     margin-bottom: 100px;
@@ -191,12 +191,12 @@ p{
 
 .lead-item h3{
     font-family: var(--primary-font);
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 .lead-item p{
     font-family: var(--text-font);
-    font-size: 1em;
+    font-size: 1.1em;
 }
 /* Lead Section Ends */
 
@@ -244,7 +244,7 @@ p{
     background-color: white;
     font-family: var(--primary-font);
     font-weight: 400;
-    font-size: 1em;
+    font-size: 2em;
     position: relative;
     top: 4px;
     left: 4px;
@@ -252,7 +252,7 @@ p{
 
 .secondary-heading{
     font-family: var(--primary-font);
-    font-size: 3em;
+    font-size: 4em;
     line-height: 5.5rem;
     margin-bottom: 30px;
 }
@@ -297,7 +297,7 @@ p{
 
 .tour-section .tour-slogan{
     color: var(--text-color);
-    font-size: 1.5em;
+    font-size: 1.6em;
     margin-top: 10px;
     font-weight: 600;
 }
@@ -329,7 +329,7 @@ p{
 
 .tour-details h3{
     font-family: var(--primary-font);
-    font-size: 1.3em;
+    font-size: 1.4em;
 }
 
 .tour-section .btn{
@@ -337,7 +337,7 @@ p{
     color: white;
     background-color: var(--primary-color);
     border: 4px solid var(--primary-color);
-    font-size: 1em;
+    font-size: 1.1em;
     font-family: var(--primary-font);
 }
 
@@ -432,7 +432,7 @@ p{
 .right-footer a{
     text-decoration: none;
     font-family: 'Oswald', sans-serif;
-    font-size: 1.3em;
+    font-size: 1.4em;
     color: white;
     margin: 5px 0;
 }
@@ -445,7 +445,7 @@ p{
 .left-footer .secondary-heading{
     color: white;
     text-transform: uppercase;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .social-icons img{
